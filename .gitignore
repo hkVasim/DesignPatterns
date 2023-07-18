@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SingletonPattern/SingletonPattern/bin/Debug/net6.0
+/SingletonPattern/SingletonPattern/obj
+/SingletonPattern/.vs/SingletonPattern
+/Patterns/.vs
+/Patterns/SingletonPattern/bin/Debug/net6.0
+/Patterns/SingletonPattern/obj
